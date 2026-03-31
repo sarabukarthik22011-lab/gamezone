@@ -1,0 +1,13 @@
+body{
+background:black;
+color:white;
+text-align:center;
+font-family:Arial;
+}
+
+a{
+background:gray;
+padding:15px;
+color:white;
+text-decoration:none;
+}

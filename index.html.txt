@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>GameZone</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>GameZone</h1>
+
+<a href="games/game1.html">Play Game</a>
+
+</body>
+</html>

@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body style="text-align:center; background:black; color:white;">
+
+<h1>My Game</h1>
+
+<iframe src="https://www.crazygames.com/embed/shell-shockers"
+width="800" height="600"></iframe>
+
+<br><br>
+<a href="../index.html">Back</a>
+
+</body>
+</html>
